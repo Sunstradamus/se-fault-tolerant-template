@@ -158,4 +158,4 @@ simple_all_policies_unit_test(read-failure-propagates)
 # Invalid read causes zero return and division by 0, which is used as an index.
 
 simple_all_policies_system_target(local-arrays)
-simple_all_policies_system_test(local-arrays a b c d e f g h i j)
+simple_all_policies_system_test(local-arrays a b c d e f g h i)
